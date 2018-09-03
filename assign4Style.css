@@ -1,0 +1,52 @@
+div {
+	font-style: italic;
+	position:absolute;
+	outline-width: 5px;
+	outline-style: solid;
+	height: 200px;
+	width: 200px;
+}
+.red-box {
+	outline-color: #F407EC;
+	background-color: #ff0000;
+	color: #F407EC;
+}
+.orange-box {
+	outline-color: #B51BE0;
+	background-color: #FFBD33;
+	color: #B51BE0;
+}
+.yellow-box {
+	outline-color: #2B34ED;
+	background-color: #EDDD2B;
+	color: #2B34ED;
+}
+.green-box {
+	outline-color: #000000;
+	background-color: #00ff00;
+	color: #000000;
+}
+.black-box {
+	outline-color: #00ff00;
+	background-color: #000000;
+	color: #00ff00;
+}
+.blue-box {
+	outline-color: #EDDD2B;
+	background-color: #2B34ED;
+	color: #EDDD2B;
+}
+.indigo-box {
+	outline-color: #FFBD33;
+	background-color: #B51BE0;
+	color: #FFBD33;
+}
+.violet-box {
+	outline-color: #ff0000;
+	background-color: #F407EC;
+	color: #ff0000;
+}
+.no-style {
+	position:absolute;
+	top: 900px;
+}
